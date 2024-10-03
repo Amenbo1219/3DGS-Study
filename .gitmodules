@@ -1,3 +1,3 @@
 [submodule "data"]
-  path = data 
+  path = ./data 
   url = https://github.com/Amenbo1219/gaussian-splatting
